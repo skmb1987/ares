@@ -1,0 +1,13 @@
+{
+    "name": "skmb1987/ares",
+    "description": "Ares",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Skmb1987\\Ares\\": "ares/src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
