@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Skmb1987\\Ares\\": "ares/src/"
+            "Skmb1987\\Ares\\": "src/"
         }
     },
     "minimum-stability": "stable",
