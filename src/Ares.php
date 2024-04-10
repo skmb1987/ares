@@ -29,6 +29,6 @@ class Ares
             throw new \Skmb1987\Ares\Exception\ApiException();
         }
 
-        return json_decode($result);
+        return json_decode($result,true);
     }
 }
